@@ -1,0 +1,10 @@
+*,
+*::before,
+* ::after{
+    box-sizing: border-box;
+}
+
+body{
+    font-size: 16px;
+    font-family: 'Roboto Condensed', sans-serif;
+}
